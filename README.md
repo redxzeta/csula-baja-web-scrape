@@ -14,4 +14,6 @@ I needed to grab some data from the school club's website and did not want to co
 
 1. set environment to csula club site
 
+1. download the driver for the browser you plan to use with selenium
+
 1. run `main.py`
